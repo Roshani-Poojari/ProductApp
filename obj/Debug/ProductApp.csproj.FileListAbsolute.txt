@@ -1,0 +1,7 @@
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\roshani.poojari\Desktop\Training\ProductApp\obj\Debug\ProductApp.pdb
